@@ -1,2 +1,0 @@
-cr987_searchvin: =Right(cr987_vin,6)
-cr987_smlouvavin: =Concatenate(cr987_cislosmlouvy,cr987_vin)
